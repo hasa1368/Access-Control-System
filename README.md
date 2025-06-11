@@ -1,0 +1,1 @@
+This is an application for access control, user management and reporting. It is written for the Windows operating system on the QT platform with MySQL Database and in the C++, QML programming languages.
